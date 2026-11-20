@@ -1,0 +1,8 @@
+{
+  "name": "Remix Cafetería UTP Veraguas",
+  "description": "Aplicación web progresiva de pedidos, sistema de puntos y votaciones semanales para la cafetería de la UTP Centro Regional de Veraguas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
